@@ -1,6 +1,6 @@
 # gradient_background
 
-A new Flutter application.
+Gradient Background
 
 ## Getting Started
 
